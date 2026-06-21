@@ -1,5 +1,5 @@
 ADITHYA SANTHOSH GADDAM
-# 💫 About Me:
+#  About Me: 
 M.S. Computer Science candidate (May 2026) with production experience across AI/ML engineering, data engineering, and full-stack development. Builds RAG pipelines, agentic AI systems, distributed ML pipelines, and cloud-deployed data platforms using Python, LangChain, FastAPI, PyTorch, PySpark, Docker, Kubernetes, AWS, and GCP. Completed engineering simulations with Deloitte, JPMorgan Chase, and Wells Fargo. Holds certifications from Anthropic, Google, Oracle, AWS, and Udacity. Open to AI/ML, data engineering, software engineering, and cloud roles — brings both the technical depth and the delivery mindset to contribute from day one.
 
 
